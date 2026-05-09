@@ -1,0 +1,11 @@
+title: TRZR Privacy Policy
+description: Privacy policy for TRZR — a personal diary iOS app.
+author: Soya Matsumura
+theme: jekyll-theme-minimal
+
+# Disable extra Jekyll features that aren't needed for a single-page site
+markdown: kramdown
+plugins: []
+exclude:
+  - README.md
+  - .gitignore
