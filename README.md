@@ -4,7 +4,7 @@ Public-facing site for TRZR's Privacy Policy.
 
 Hosted via GitHub Pages from the `main` branch root. The site is rendered automatically by Jekyll using `index.md` and `_config.yml`.
 
-**Live URL**: https://soya0901.github.io/trzr-policy/
+**Live URL**: https://trzr-app.github.io/policy/
 
 ## Editing
 
@@ -19,4 +19,4 @@ Soya Matsumura — TRZR developer.
 ## Related
 
 - App: TRZR (App Store, planned)
-- Bundle ID: `com.app.trzr`
+- Bundle ID: `app.trzr`

@@ -5,8 +5,8 @@ title: TRZR Privacy Policy
 
 # TRZR Privacy Policy / プライバシーポリシー
 
-**Effective Date / 施行日**: 2026-05-09
-**App**: TRZR (Bundle ID: `com.soya0901.trzr`)
+**Effective Date / 施行日**: 2026-05-20
+**App**: TRZR (Bundle ID: `app.trzr`)
 **Developer**: Soya Matsumura
 **Contact**: trzr.app@gmail.com
 
