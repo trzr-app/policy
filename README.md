@@ -19,4 +19,4 @@ Soya Matsumura — TRZR developer.
 ## Related
 
 - App: TRZR (App Store, planned)
-- Bundle ID: `com.soya0901.trzr`
+- Bundle ID: `com.app.trzr`
